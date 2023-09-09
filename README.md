@@ -51,7 +51,6 @@ TrainerGo is a web-based application that facilitates remote communication and t
 - Usage
 - Contributing
 - License
-- Features
 - TrainerGo offers a wide range of features for both trainers and clients, including:
 
 ## Trainer Features:
