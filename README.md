@@ -44,15 +44,15 @@ yarn run format
 TrainerGo is a web-based application that facilitates remote communication and training between fitness trainers and their clients. This platform leverages React, Redux, Firebase Realtime Database, and Firebase Cloud Firestore to create a seamless experience for trainers and clients alike.
 
 ## Table of Contents
-Features
-Getting Started
-Prerequisites
-Installation
-Usage
-Contributing
-License
-Features
-TrainerGo offers a wide range of features for both trainers and clients, including:
+- Features
+- Getting Started
+- Prerequisites
+- Installation
+- Usage
+- Contributing
+- License
+- Features
+- TrainerGo offers a wide range of features for both trainers and clients, including:
 
 ## Trainer Features:
 
