@@ -1,0 +1,22 @@
+{
+  "blocks": {
+    "formats": {
+      "1": {
+        "id": 1,
+        "title": "MET_CON"
+      },
+      "2": {
+        "id": 2,
+        "title": "AMRAP"
+      },
+      "3": {
+        "id": 3,
+        "title": "EMOM"
+      },
+      "4": {
+        "id": 4,
+        "title": "TABATA"
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "data": {
+    "filters": {
+      "bodyweight": {
+        "title": "bodyweight",
+        "filters": [
+          {
+            "id": "1BW",
+            "title": "Sandbag/Bulgarian bag"
+          },
+          {
+            "id": "2BW",
+            "title": "Sandbag adhesive"
+          },
+          {
+            "id": "3BW",
+            "title": "Kettle bell"
+          },
+          {
+            "id": "4BW",
+            "title": "Jump rope/speed rope"
+          },
+          {
+            "id": "5BW",
+            "title": "Home dip bar"
+          },
+          {
+            "id": "6BW",
+            "title": "Home pullup bar"
+          },
+          {
+            "id": "7BW",
+            "title": "Yoga matt"
+          },
+          {
+            "id": "8BW",
+            "title": "Dumbbells"
+          },
+          {
+            "id": "9BW",
+            "title": "Barbells"
+          },
+          {
+            "id": "10BW",
+            "title": "suspension trainers (TRX)"
+          }
+        ]
+      },
+      "suspensionTrainers": {
+        "title": "suspension trainers (TRX)",
+        "filters": [
+          {
+            "id": "1ST",
+            "title": "Yoga bells"
+          },
+          {
+            "id": "2ST",
+            "title": "Yoga matt"
+          },
+          {
+            "id": "3ST",
+            "title": "Foam roller"
+          },
+          {
+            "id": "4ST",
+            "title": "Speed ladder"
+          },
+          {
+            "id": "5ST",
+            "title": "Home dip bar"
+          },
+          {
+            "id": "6ST",
+            "title": "Home pullup bar"
+          },
+          {
+            "id": "7ST",
+            "title": "Yoga matt"
+          },
+          {
+            "id": "8ST",
+            "title": "Dumbbells"
+          },
+          {
+            "id": "9ST",
+            "title": "Barbells"
+          }
+        ]
+      },
+      "ResistanceBands": {
+        "title": "Resistance bands",
+        "filters": [
+          {
+            "id": "1RB",
+            "title": "a. Loop small (gluts)"
+          },
+          {
+            "id": "2RB",
+            "title": "b. Loop CrossFit"
+          },
+          {
+            "id": "3RB",
+            "title": "c. Belt Pilates"
+          },
+          {
+            "id": "5RB",
+            "title": "d. Handles"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="112px" height="106px" viewBox="0 0 112 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>A3EF4D4E-077C-451E-BD15-E29A45A0E6A9</title>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Start-Workout" transform="translate(-456.000000, -266.000000)" stroke="#6D6D6D" stroke-width="1.5">
+            <g id="Group-6" transform="translate(253.941176, 227.000000)">
+                <g id="Group-4" transform="translate(177.058824, 0.000000)">
+                    <g id="Group-2" transform="translate(26.058824, 40.000000)">
+                        <rect id="Rectangle" x="0" y="0" width="110" height="72.17" rx="9.37"></rect>
+                        <rect id="Rectangle" x="46.86" y="5.65" width="16.28" height="17.55" rx="4.44"></rect>
+                        <line x1="51.35" y1="12.07" x2="58.65" y2="12.07" id="Path"></line>
+                        <line x1="51.35" y1="16.77" x2="58.65" y2="16.77" id="Path"></line>
+                        <rect id="Rectangle" x="46.86" y="28.16" width="16.28" height="17.55" rx="4.44"></rect>
+                        <rect id="Rectangle" x="51.35" y="33.29" width="7.3" height="7.3" rx="3.65"></rect>
+                        <rect id="Rectangle" x="6.04" y="5.65" width="36.33" height="49.33" rx="4.33"></rect>
+                        <line x1="12.66" y1="17.98" x2="35.74" y2="17.98" id="Path"></line>
+                        <line x1="20.12" y1="12.71" x2="28.28" y2="12.71" id="Path"></line>
+                        <line x1="12.66" y1="24.26" x2="35.74" y2="24.26" id="Path"></line>
+                        <line x1="14.09" y1="30.53" x2="34.31" y2="30.53" id="Path"></line>
+                        <line x1="24.2" y1="43.45" x2="35.37" y2="43.45" id="Path"></line>
+                        <line x1="24.2" y1="47.61" x2="33.87" y2="47.61" id="Path"></line>
+                        <path d="M20.34,45.53 C20.3363218,47.0654036 19.5781488,48.5009018 18.312093,49.3695678 C17.0460373,50.2382338 15.4338762,50.4290689 14,49.88 C12.7639854,49.4427175 11.7858884,48.4792737 11.33,47.25 C10.7809311,45.8161238 10.9717662,44.2039627 11.8404322,42.937907 C12.7090982,41.6718512 14.1445964,40.9136782 15.68,40.91" id="Path"></path>
+                        <circle id="Oval" cx="8.87" cy="63.45" r="2.83"></circle>
+                        <circle id="Oval" cx="39.53" cy="63.45" r="2.83"></circle>
+                        <rect id="Rectangle" x="67.64" y="5.65" width="36.33" height="49.33" rx="4.33"></rect>
+                        <line x1="74.26" y1="17.98" x2="97.34" y2="17.98" id="Path"></line>
+                        <line x1="81.72" y1="12.71" x2="89.88" y2="12.71" id="Path"></line>
+                        <line x1="76.26" y1="24.26" x2="95.34" y2="24.26" id="Path"></line>
+                        <line x1="86.87" y1="44.52" x2="98.05" y2="44.52" id="Path"></line>
+                        <line x1="86.87" y1="48.68" x2="96.54" y2="48.68" id="Path"></line>
+                        <circle id="Oval" cx="101.13" cy="63.45" r="2.83"></circle>
+                        <rect id="Rectangle" x="67.64" y="61.11" width="27.03" height="4.69" rx="2.345"></rect>
+                        <rect id="Rectangle" x="71.36" y="41.55" width="12.09" height="9.7" rx="1.03"></rect>
+                        <polyline id="Path" points="49.63 72.55 36.8 96.77 55 96.77 73.2 96.77 60.37 72.55"></polyline>
+                        <path d="M78.31,103.55 L31.69,103.55 C29.8177547,103.55 28.3,102.032245 28.3,100.16 L28.3,100.16 C28.3,98.2877547 29.8177547,96.77 31.69,96.77 L78.31,96.77 C80.1822453,96.77 81.7,98.2877547 81.7,100.16 L81.7,100.16 C81.7,102.032245 80.1822453,103.55 78.31,103.55 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

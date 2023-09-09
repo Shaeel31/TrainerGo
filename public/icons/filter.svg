@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>434F9596-2C70-44FC-AFEB-F8C80206DBC5</title>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Styleguide" transform="translate(-446.000000, -4729.000000)" stroke="#626262" stroke-width="1.5">
+            <g id="Group" transform="translate(447.000000, 4730.000000)">
+                <line x1="8.80237358" y1="2.20083457" x2="12.3317853" y2="2.20083457" id="Line-6"></line>
+                <line x1="8.80237358" y1="6.56252932" x2="15.8611971" y2="6.56252932" id="Line-6-Copy"></line>
+                <line x1="8.80237358" y1="10.9242241" x2="19.3906089" y2="10.9242241" id="Line-6-Copy-2"></line>
+                <g id="Group-20" transform="translate(0.000000, -0.000000)">
+                    <line x1="2.94117647" y1="-1.63268092e-16" x2="2.94117647" y2="11.7647059" id="Line-2"></line>
+                    <polyline id="Path" transform="translate(2.941176, 11.370588) scale(1, -1) translate(-2.941176, -11.370588) " points="0 12.9411765 2.94117647 9.8 5.88235294 12.9411765"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

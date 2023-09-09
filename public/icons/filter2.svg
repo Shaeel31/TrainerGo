@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>C6E0966B-417E-4098-A6C1-8B64480D33F3</title>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Builder---New-Workout-2" transform="translate(-513.000000, -36.000000)" stroke="#6D6D6D" stroke-width="1.5">
+            <g id="Group-7" transform="translate(65.000000, 26.000000)">
+                <g id="Group-2" transform="translate(448.000000, 10.000000)">
+                    <line x1="0.87" y1="2.82" x2="3.43" y2="2.82" id="Line-6" stroke-linecap="round"></line>
+                    <line x1="0.87" y1="9.64" x2="9.83" y2="9.64" id="Line-6-Copy" stroke-linecap="round"></line>
+                    <line x1="0.87" y1="16.46" x2="3.81" y2="16.46" id="Line-6-Copy-2" stroke-linecap="round"></line>
+                    <circle id="Oval-2" cx="5.88" cy="2.82" r="2.07"></circle>
+                    <circle id="Oval-Copy" cx="12.35" cy="9.64" r="2.07"></circle>
+                    <circle id="Oval-Copy-2" cx="6.11" cy="16.46" r="2.07"></circle>
+                    <line x1="7.96" y1="2.82" x2="16.97" y2="2.82" id="Path" stroke-linecap="round"></line>
+                    <line x1="14.7" y1="9.64" x2="16.97" y2="9.64" id="Path" stroke-linecap="round"></line>
+                    <line x1="8.39" y1="16.46" x2="16.97" y2="16.46" id="Path" stroke-linecap="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>93CB1FD4-25F4-4BDE-8D94-15A36D03B137</title>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Styleguide" transform="translate(-529.000000, -13354.000000)" stroke="#6D6D6D" stroke-width="1.5">
+            <g id="Group-45-Copy" transform="translate(512.000000, 13077.000000)">
+                <g id="Group-45" transform="translate(-219.000000, 26.000000)">
+                    <g id="Group-6" transform="translate(237.000000, 252.000000)">
+                        <circle id="Oval" cx="3.48" cy="11.8875" r="3.48"></circle>
+                        <circle id="Oval" cx="20.295" cy="11.8875" r="3.48"></circle>
+                        <circle id="Oval" cx="11.8875" cy="20.2875" r="3.48"></circle>
+                        <circle id="Oval" cx="11.8875" cy="3.48" r="3.48"></circle>
+                        <line x1="9.4275" y1="5.94" x2="5.9475" y2="9.42" id="Path"></line>
+                        <line x1="17.8275" y1="14.3475" x2="14.3475" y2="17.8275" id="Path"></line>
+                        <line x1="5.9475" y1="14.3475" x2="9.4275" y2="17.8275" id="Path"></line>
+                        <line x1="14.3475" y1="5.94" x2="17.8275" y2="9.42" id="Path"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

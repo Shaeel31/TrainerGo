@@ -1,0 +1,3 @@
+export const ACTION = {
+  FIREBASE_ADD_NEW_BLOCK: 'FIREBASE_ADD_NEW_BLOCK',
+}

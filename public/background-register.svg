@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="710px" viewBox="0 0 512 710" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>37FDFAE9-3DD6-4521-ACF0-102EB60DDC33</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="512" height="710"></rect>
+        <filter x="-13.7%" y="-13.7%" width="127.4%" height="127.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-22.4%" y="-22.4%" width="144.9%" height="144.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-34.9%" y="-34.9%" width="169.8%" height="169.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-49">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+            <g mask="url(#mask-2)" fill="#3CFF8F" fill-rule="nonzero">
+                <g transform="translate(-543.000000, -161.000000)">
+                    <path d="M783.597158,1200 L783.597158,563.878848 C783.514713,482.464273 717.535727,416.485287 636.121152,416.402842 L-2.12833366e-12,416.402842 L-2.12833366e-12,104.69899 L285.229964,104.69899 C393.040121,104.897387 496.349803,147.943088 572.404338,224.354979 L976.243301,628.193942 C1052.65519,704.248477 1095.70089,807.558159 1095.89929,915.368316 L1095.89929,1200 L783.597158,1200 Z" id="Path" filter="url(#filter-3)"></path>
+                    <path d="M478.623956,1200 L478.623956,811.118036 C478.623956,761.554902 438.445098,721.376044 388.881964,721.376044 L-1.26881429e-12,721.376044 L-1.26881429e-12,531.571731 L174.099464,531.571731 C239.906647,531.578883 303.015929,557.726463 349.545058,604.262745 L595.737255,850.454942 C642.273537,896.984071 668.421117,960.093353 668.428269,1025.90054 L668.428269,1200 L478.623956,1200 Z" id="Path" filter="url(#filter-4)"></path>
+                    <circle id="Oval" filter="url(#filter-5)" cx="985.06793" cy="214.93207" r="214.93207"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

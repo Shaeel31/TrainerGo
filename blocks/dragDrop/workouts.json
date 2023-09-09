@@ -1,0 +1,123 @@
+{
+  "workout01": {
+    "title": "workout 01",
+    "type": "workout",
+    "blocks": {
+      "01": {
+        "id": "01",
+        "type": "block",
+        "title": "block 1",
+        "exercise": {
+          "01": {
+            "id": "01",
+            "type": "exercise",
+            "title": "exercise 1"
+          },
+          "02": {
+            "id": "02",
+            "type": "exercise",
+            "title": "exercise 2"
+          }
+        }
+      },
+      "02": {
+        "id": "02",
+        "title": "block 2",
+        "type": "block",
+        "exercise": {
+          "01": {
+            "id": "01",
+            "type": "exercise",
+
+            "title": "exercise 1"
+          },
+          "02": {
+            "id": "02",
+            "type": "exercise",
+            "title": "exercise 2"
+          }
+        }
+      }
+    }
+  },
+  "workout02": {
+    "title": "workout 02",
+    "type": "workout",
+    "blocks": {
+      "01": {
+        "id": "01",
+        "title": "block 1",
+        "type": "block",
+        "exercise": {
+          "01": {
+            "id": "01",
+            "type": "exercise",
+            "title": "exercise 1"
+          },
+          "02": {
+            "id": "02",
+            "type": "exercise",
+            "title": "exercise 2"
+          }
+        }
+      },
+      "02": {
+        "id": "02",
+        "title": "block 2",
+        "type": "block",
+        "exercise": {
+          "01": {
+            "id": "01",
+            "type": "exercise",
+            "title": "exercise 1"
+          },
+          "02": {
+            "id": "02",
+            "type": "exercise",
+            "title": "exercise 2"
+          }
+        }
+      }
+    }
+  },
+  "workout03": {
+    "title": "workout 03",
+    "type": "workout",
+    "blocks": {
+      "01": {
+        "id": "01",
+        "title": "block 1",
+        "type": "block",
+        "exercise": {
+          "01": {
+            "id": "01",
+            "type": "exercise",
+            "title": "exercise 1"
+          },
+          "02": {
+            "id": "02",
+            "type": "exercise",
+            "title": "exercise 2"
+          }
+        }
+      },
+      "02": {
+        "id": "02",
+        "title": "block 2",
+        "type": "block",
+        "exercise": {
+          "01": {
+            "id": "01",
+            "type": "exercise",
+            "title": "exercise 1"
+          },
+          "02": {
+            "id": "02",
+            "type": "exercise",
+            "title": "exercise 2"
+          }
+        }
+      }
+    }
+  }
+}

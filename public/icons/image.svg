@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="52px" viewBox="0 0 70 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>925F0157-7214-433E-A832-0034337E758B</title>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Styleguide" transform="translate(-540.000000, -6555.000000)" stroke="#3CFF8F" stroke-width="1.5">
+            <g id="Group-26" transform="translate(481.000000, 6478.000000)">
+                <g id="Group-25" transform="translate(37.000000, 66.000000)">
+                    <g id="Asset-74" transform="translate(23.000000, 12.000000)">
+                        <path d="M57.91,20.39 L57.91,42.87 C57.8771281,46.9477629 54.567881,50.2391704 50.49,50.25 L7.42,50.25 C3.34211896,50.2391704 0.0328718734,46.9477629 0,42.87 L0,17.62 C0.0383167172,13.5461471 3.34598111,10.2607715 7.42,10.25 L47.71,10.25" id="Path"></path>
+                        <circle id="Oval" cx="11.32" cy="21.14" r="5.35"></circle>
+                        <polyline id="Path" points="8.44 49.59 15.77 39.02 23.1 28.44 30.44 39.02 37.77 49.59"></polyline>
+                        <polygon id="Path" points="30.52 38.95 33.31 42.97 37.19 42.97 51.86 42.97 44.52 32.39 37.19 21.82 29.86 32.39 27.92 35.19"></polygon>
+                        <polyline id="Path" points="54.54 8.35 57.91 4.83 61.27 8.35"></polyline>
+                        <line x1="57.91" y1="5.44" x2="57.91" y2="15.55" id="Path"></line>
+                        <circle id="Oval" cx="57.91" cy="10.2" r="10.2"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

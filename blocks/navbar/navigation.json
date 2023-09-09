@@ -1,0 +1,82 @@
+{
+  "navigation": [
+    {
+      "id": "01",
+      "title": "Overview",
+      "icon": "overview.svg",
+      "link": "",
+      "disabled": true
+    },
+    {
+      "id": "02",
+      "title": "Messages",
+      "icon": "message.svg",
+      "count": "2",
+      "disabled": true,
+      "link": ""
+    },
+    {
+      "id": "03",
+      "title": "Clients",
+      "icon": "clients.svg",
+      "link": "",
+      "disabled": true
+    },
+    {
+      "id": "09",
+      "title": "Teams",
+      "icon": "teams.svg",
+      "link": "",
+      "disabled": true
+    },
+    {
+      "id": "04",
+      "title": "VOD / DVR",
+      "icon": "DVR.svg",
+      "link": "",
+      "disabled": true
+    },
+    {
+      "id": "05",
+      "title": "Workout builder",
+      "icon": "workout.svg",
+      "disabled": false,
+      "link": "/builder"
+    },
+    {
+      "id": "06",
+      "title": "Legal",
+      "icon": "legal.svg",
+      "link": "",
+      "disabled": true
+    },
+    {
+      "id": "07",
+      "title": "Add ons",
+      "icon": "add-on.svg",
+      "link": "",
+      "disabled": true
+    },
+    {
+      "id": "08",
+      "title": "Calender",
+      "icon": "calendar.svg",
+      "link": "",
+      "disabled": true
+    },
+    {
+      "id": "10",
+      "title": "Settings",
+      "icon": "settings.svg",
+      "link": "",
+      "disabled": true
+    },
+    {
+      "id": "11",
+      "title": "Support",
+      "icon": "support.svg",
+      "link": "",
+      "disabled": true
+    }
+  ]
+}

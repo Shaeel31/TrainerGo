@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>549A284E-E606-45E1-A612-5D8D10CDB8F1</title>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Builder---New-Workout-2" transform="translate(-545.000000, -36.000000)" stroke="#6D6D6D" stroke-width="1.5">
+            <g id="Group-7" transform="translate(65.000000, 26.000000)">
+                <g id="Group-57" transform="translate(481.396362, 10.805229)">
+                    <g id="Group-20" transform="translate(3.432819, 0.000000)">
+                        <line x1="4.51975429" y1="-1.59145769e-16" x2="4.51975429" y2="11.4676612" id="Line-2"></line>
+                        <polyline id="Path" transform="translate(4.519754, 10.601354) scale(1, -1) translate(-4.519754, -10.601354) " points="0.749954417 12.6144273 4.51975429 8.58828105 8.28955417 12.6144273"></polyline>
+                    </g>
+                    <path d="M16.1045851,12.9260485 L16.1045851,12.9521948 C16.1045851,15.1613338 14.3137241,16.9521948 12.1045851,16.9521948 L4,16.9521948 C1.790861,16.9521948 2.705415e-16,15.1613338 0,12.9521948 L0,12.9260485 L0,12.9260485" id="Path" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

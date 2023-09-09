@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="20px" viewBox="0 0 23 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CA23B69F-6010-47A2-9450-B9E988942B42</title>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Styleguide" transform="translate(-530.000000, -13554.000000)">
+            <g id="Group-45-Copy" transform="translate(512.000000, 13077.000000)">
+                <g id="Group-45" transform="translate(-219.000000, 26.000000)">
+                    <g id="Asset-75" transform="translate(238.000000, 452.000000)">
+                        <circle id="Oval" fill="#6D6D6D" fill-rule="nonzero" cx="4.42" cy="7.95" r="1.09"></circle>
+                        <circle id="Oval" fill="#6D6D6D" fill-rule="nonzero" cx="8.43" cy="7.95" r="1.09"></circle>
+                        <circle id="Oval" fill="#6D6D6D" fill-rule="nonzero" cx="12.44" cy="7.95" r="1.09"></circle>
+                        <circle id="Oval" fill="#6D6D6D" fill-rule="nonzero" cx="16.45" cy="7.95" r="1.09"></circle>
+                        <circle id="Oval" fill="#6D6D6D" fill-rule="nonzero" cx="4.42" cy="12.76" r="1.09"></circle>
+                        <circle id="Oval" fill="#6D6D6D" fill-rule="nonzero" cx="8.43" cy="12.76" r="1.09"></circle>
+                        <circle id="Oval" fill="#6D6D6D" fill-rule="nonzero" cx="12.44" cy="12.76" r="1.09"></circle>
+                        <rect id="Rectangle" stroke="#6D6D6D" stroke-width="1.5" x="0" y="2.12" width="20.87" height="16.13" rx="2.53"></rect>
+                        <line x1="5.85" y1="0" x2="5.85" y2="4.24" id="Path" stroke="#6D6D6D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="15.02" y1="0" x2="15.02" y2="4.24" id="Path" stroke="#6D6D6D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

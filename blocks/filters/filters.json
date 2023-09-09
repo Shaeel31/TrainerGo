@@ -1,0 +1,105 @@
+{
+  "bodyweight": {
+    "title": "bodyweight",
+    "filters": [
+      {
+        "value": "1BW",
+        "label": "Sandbag/Bulgarian bag"
+      },
+      {
+        "value": "2BW",
+        "label": "Sandbag adhesive"
+      },
+      {
+        "value": "3BW",
+        "label": "Kettle bell"
+      },
+      {
+        "value": "4BW",
+        "label": "Jump rope/speed rope"
+      },
+      {
+        "value": "5BW",
+        "label": "Home dip bar"
+      },
+      {
+        "value": "6BW",
+        "label": "Home pullup bar"
+      },
+      {
+        "value": "7BW",
+        "label": "Yoga matt"
+      },
+      {
+        "value": "8BW",
+        "label": "Dumbbells"
+      },
+      {
+        "value": "9BW",
+        "label": "Barbells"
+      }
+    ]
+  },
+  "suspensionTrainers": {
+    "title": "suspension trainers (TRX)",
+    "filters": [
+      {
+        "value": "1ST",
+        "label": "Yoga bells"
+      },
+      {
+        "value": "2ST",
+        "label": "Yoga matt"
+      },
+      {
+        "value": "3ST",
+        "label": "Foam roller"
+      },
+      {
+        "value": "4ST",
+        "label": "Speed ladder"
+      },
+      {
+        "value": "5ST",
+        "label": "Home dip bar"
+      },
+      {
+        "value": "6ST",
+        "label": "Home pullup bar"
+      },
+      {
+        "value": "7ST",
+        "label": "Yoga matt"
+      },
+      {
+        "value": "8ST",
+        "label": "Dumbbells"
+      },
+      {
+        "value": "9ST",
+        "label": "Barbells"
+      }
+    ]
+  },
+  "ResistanceBands": {
+    "title": "Resistance bands",
+    "filters": [
+      {
+        "value": "1RB",
+        "label": "a. Loop small (gluts)"
+      },
+      {
+        "value": "2RB",
+        "label": "b. Loop CrossFit"
+      },
+      {
+        "value": "3RB",
+        "label": "c. Belt Pilates"
+      },
+      {
+        "value": "5RB",
+        "label": "d. Handles"
+      }
+    ]
+  }
+}
