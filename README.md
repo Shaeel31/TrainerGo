@@ -40,10 +40,10 @@ yarn run format
 
 ## Description
 
-TrainerGo
+## TrainerGo
 TrainerGo is a web-based application that facilitates remote communication and training between fitness trainers and their clients. This platform leverages React, Redux, Firebase Realtime Database, and Firebase Cloud Firestore to create a seamless experience for trainers and clients alike.
 
-Table of Contents
+## Table of Contents
 Features
 Getting Started
 Prerequisites
@@ -54,7 +54,7 @@ License
 Features
 TrainerGo offers a wide range of features for both trainers and clients, including:
 
-Trainer Features:
+## Trainer Features:
 
 Secure login for trainers.
 Creating and customizing training plans for clients.
@@ -63,14 +63,16 @@ Monitoring client progress.
 Real-time video calls to watch clients perform exercises.
 Creating various exercise sets, including drop sets, tri sets, and giant sets.
 Communication through built-in chat functionality.
-Client Features:
+
+## Client Features:
 
 Selection of customized training plans.
 Access to diet routines designed by trainers.
 Progress tracking.
 Video sessions with trainers.
 Chat functionality for direct communication with trainers.
-Getting Started
+
+## Getting Started
 Prerequisites
 Before you begin, ensure you have met the following requirements:
 
@@ -79,38 +81,38 @@ Firebase project set up with Firebase Realtime Database and Firebase Cloud Fires
 Installation
 Clone the repository:
 
-bash
+## bash
 Copy code
 git clone https://github.com/yourusername/TrainerGo.git
 Navigate to the project directory:
 
-bash
+## bash
 Copy code
 cd TrainerGo
 Install the project dependencies:
 
-bash
+## bash
 Copy code
 npm install
 Configure Firebase:
 
-Create a Firebase project on the Firebase Console.
+## Create a Firebase project on the Firebase Console.
 Add Firebase configuration details to your project (usually found in Firebase settings).
 Set up Firebase Realtime Database and Firebase Cloud Firestore.
 Start the development server:
 
-bash
+## bash
 Copy code
 npm start
 Access the application at http://localhost:3000.
 
-Usage
+## Usage
 As a trainer, log in to create training plans, monitor client progress, and interact with clients via video calls and chat.
 As a client, log in to select training plans, access diet routines, track your progress, and communicate with your trainer.
 Contributing
-We welcome contributions from the community. To contribute to TrainerGo, follow these steps:
+To contribute to TrainerGo, follow these steps:
 
-Fork the project.
+## Fork the project.
 Create a new branch for your feature or bug fix.
 Make your changes and commit them with clear, concise commit messages.
 Push your changes to your fork.
